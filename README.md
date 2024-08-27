@@ -4,4 +4,11 @@ A simple Minecraft modpack focusing on the essence of Minecraft, adding simple u
 
 ## Download
 
-+ [![Simple Utilities](http://cf.way2muchnoise.eu/simple-utilities.svg "ATM9") Simple Utilities](https://www.curseforge.com/minecraft/modpacks/simple-utilities)
++ [![Simple Utilities](http://cf.way2muchnoise.eu/simple-utilities.svg "SU") Simple Utilities](https://www.curseforge.com/minecraft/modpacks/simple-utilities)
+
+
+## Modpacks
+
++ [![Trip To Avaritia](http://cf.way2muchnoise.eu/tta.svg "TTA") Trip To Avaritia](https://www.curseforge.com/minecraft/modpacks/tta)
++ [![Trip To Avaritia](http://cf.way2muchnoise.eu/cmc1.svg "CMC") CrazyMC](https://www.curseforge.com/minecraft/modpacks/cmc1)
++ [![Simple Utilities](http://cf.way2muchnoise.eu/simple-utilities.svg "SU") Simple Utilities](https://www.curseforge.com/minecraft/modpacks/simple-utilities)
