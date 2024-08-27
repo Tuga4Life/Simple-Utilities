@@ -3,9 +3,7 @@
 A simple Minecraft modpack focusing on the essence of Minecraft, adding simple utilities and game performance.
 
 ## Download
-
-+ [![Simple Utilities](http://cf.way2muchnoise.eu/simple-utilities.svg "SU") Simple Utilities](https://www.curseforge.com/minecraft/modpacks/simple-utilities)
-
++ ![Simple Utilities](https://cf.way2muchnoise.eu/versions/simple-utilities.svg "SU")
 
 ## Modpacks
 
