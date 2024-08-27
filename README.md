@@ -2,10 +2,6 @@
 
 A simple Minecraft modpack focusing on the essence of Minecraft, adding simple utilities and game performance.
 
-[![CurseForge][img-cf]][url-app-cf]
+## Download
 
-<!-- Images -->
-[img-cf]: <https://imgur.com/a/ERP6kNm>
-
-<!-- URLs -->
-[url-app-cf]: <[https://www.curseforge.com/minecraft/modpacks/simple-utilities]>
++ [![Simple Utilities](http://cf.way2muchnoise.eu/simple-utilities.svg "ATM9") Simple Utilities](https://www.curseforge.com/minecraft/modpacks/simple-utilities)
